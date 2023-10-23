@@ -1,7 +1,9 @@
 :root {
   --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   --animation-duration: 250ms;
+  text-align: center;
 }
+
 
 .gallery {
   display: grid;
@@ -12,6 +14,7 @@
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
+  list-style-type: none;
 }
 
 .gallery__item {
