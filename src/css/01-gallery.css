@@ -43,3 +43,14 @@
 .gallery__link:hover {
   cursor: zoom-in;
 }
+
+.btn {
+  display: inline-block;
+  width: 25%;
+  border: 2px solid black;
+  border-radius: 7px;
+  padding: 10px 25px;
+  text-decoration: none;
+
+  cursor: pointer;
+}
