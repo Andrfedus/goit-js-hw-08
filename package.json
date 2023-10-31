@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy//goit-js-hw-08.git"
+    "url": "git+https://github.com/Andrfedus/goit-js-hw-08"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Andriy Fedus <andrfedus@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Andrfedus/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
