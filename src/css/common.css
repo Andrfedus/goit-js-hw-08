@@ -26,9 +26,10 @@ li{
 }
 
 a{
+  font-size: 25px;
 line-height: 35px;
   text-decoration: none;
-  color: blue;
+  color: black;
   margin-bottom: 10px;
 }
 
